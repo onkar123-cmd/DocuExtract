@@ -21,7 +21,7 @@ This tool accepts both image and PDF documents, extracts key data using AI, and 
 
 - **Gemini 2.0 Flash Lite**: Offers higher RPM (requests per minute) and extended token support, ideal for document parsing.
 - **Frontend Stack**: React, TypeScript
-- **Credits**: Developed by **Jishu Sengupta** & **Himadri Purkait**
+- **Credits**: Developed by **Onkar Hui**,**Soumendu Tarafder**,**Jishu Sengupta** & **Himadri Purkait**
 
 ---
 
